@@ -2,4 +2,3 @@
 
 ## Plain DOsa
  * dosa batter
- * add oil
